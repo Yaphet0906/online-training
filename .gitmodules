@@ -1,0 +1,3 @@
+[submodule "lms"]
+	path = lms
+	url = https://github.com/Yaphet0906/SCORM-LearningManagementSystem.git
