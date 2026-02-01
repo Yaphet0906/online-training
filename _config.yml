@@ -1,0 +1,5 @@
+exclude:
+  - lms/
+  - .gitmodules
+  - README.md
+  theme: null
